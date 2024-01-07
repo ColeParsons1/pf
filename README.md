@@ -3,6 +3,3 @@ Social media site/IOS app, with a built in meme-creator. Project was shelved unt
 ![IMG_7438](https://github.com/ColeParsons1/pf/assets/47366527/d151d131-6480-43d6-a4cd-a28bb447e865)
 
 
-
-![IMG_7440](https://github.com/ColeParsons1/pf/assets/47366527/e115182d-b2f7-4412-9341-8dba5d473749)
-
